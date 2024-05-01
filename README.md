@@ -1,1 +1,1 @@
-This project is all about Netflix clone of front-end system..
+This project is all about Netflix clone of front-end system.
